@@ -1,5 +1,5 @@
 ## Hey there, I'm Mayank Rawat 👋
-##### A Student, Developer and Crypto Enthusiast 
+##### A Student, Developer and a Crypto Enthusiast 
 ---
 - 🔭 I’m currently pursuing my undergrad
 - 🌱 Trying to improve my skills everyday
