@@ -9,7 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mxyxnnk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mxyxnnk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankrawat06) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mayankrawat0608) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MayankRawat0806)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
+[![Facebook](https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook)][facebook]
+[![Medium](https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=medium)][medium]
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:mayank.rawat6802@gamil.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -20,5 +26,8 @@
 ![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=MayankRawat06&show_icons=true&hide_border=true&count_private=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrawat06&label=Profile%20views&color=0e75b6&style=flat" alt="mayankrawat06" /> </p>
 
-
-
+[twitter]: https://twitter.com/MayankRawat0806
+[instagram]: https://instagram.com/mxyxnnk
+[linkedin]: https://linkedin.com/in/mayankrawat06
+[facebook]: https://facebook.com/mxyxnnk
+[medium]: https://medium.com/@mayankrawat0608
