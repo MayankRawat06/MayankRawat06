@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently pursuing my undergrad
 - 🌱 Trying to improve my skills everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm into fitness
  
 ![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=MayankRawat06&show_icons=true&hide_border=true&count_private=true&theme=radical)
