@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently pursuing my undergrad
 - 🌱 Trying to improve my skills everyday
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Master Data Structures and Algorithms
 - ⚡ Fun fact: I'm into fitness
  
 
