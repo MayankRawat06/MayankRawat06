@@ -24,7 +24,7 @@
 
 
 ![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=MayankRawat06&show_icons=true&hide_border=true&count_private=true&theme=radical)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrawat06&label=Profile%20views&color=0e75b6&style=flat" alt="mayankrawat06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrawat06&label=Profile%20views&color=301E67&style=for-the-badge" alt="mayankrawat06" /> </p>
 
 [twitter]: https://twitter.com/MayankRawat0806
 [instagram]: https://instagram.com/mxyxnnk
