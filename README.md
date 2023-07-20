@@ -16,6 +16,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook)][facebook]
 [![Medium](https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=medium)][medium]
 [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:mayank.rawat6802@gamil.com)
+[![LeetCode user mayank0806](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=mayank0806&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmayank0806&logo=leetcode&logoColor=yellow)](https://leetcode.com/mayank0806/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -24,7 +26,13 @@
 
 
 ![Mayank's Github Stats](https://github-readme-stats.vercel.app/api?username=MayankRawat06&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+![Mayank's LeetCode Stats](https://leetcard.jacoblin.cool/mayank0806?ext=heatmap)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrawat06&label=Profile%20views&color=301E67&style=for-the-badge" alt="mayankrawat06" /> </p>
+
+
+
 
 [twitter]: https://twitter.com/MayankRawat0806
 [instagram]: https://instagram.com/mxyxnnk
