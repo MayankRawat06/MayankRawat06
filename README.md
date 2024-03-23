@@ -1,9 +1,8 @@
 ## Hey there, I'm Mayank Rawat 
 ##### A Student, Developer and a Crypto Enthusiast 
 ---
-- 🔭 I’m currently pursuing my undergrad
+- 🔭 Software Engineer
 - 🌱 Trying to improve my skills everyday
-- 🥅 2023 Goals: Master Data Structures and Algorithms
 - ⚡ Fun fact: I'm into fitness
  
 
